@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-23 03:43:24</sys_created_on>
+        <sys_id>b1a7f50283c12a10b7e2c590ceaad36f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_803300_github_in_github_integration.x_803300_github_in.github_integration_user</sys_name>
+        <sys_package display_value="gitHub Integration" source="x_803300_github_in">2dc6fd4e83812a10b7e2c590ceaad37a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="gitHub Integration">2dc6fd4e83812a10b7e2c590ceaad37a</sys_scope>
+        <sys_security_acl display_value="x_803300_github_in_github_integration">b9a7f50283c12a10b7e2c590ceaad36b</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_b1a7f50283c12a10b7e2c590ceaad36f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-23 03:43:24</sys_updated_on>
+        <sys_user_role display_value="x_803300_github_in.github_integration_user" name="x_803300_github_in.github_integration_user">a9a7b54e83812a10b7e2c590ceaad3a8</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
